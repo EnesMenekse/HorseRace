@@ -1,2 +1,5 @@
-# HorseRace
- Made with Vue
+## İnstalk
+
+npm install
+
+npm run serve
