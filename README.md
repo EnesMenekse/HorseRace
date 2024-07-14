@@ -1,4 +1,4 @@
-## İnstall
+## Installation
 
 npm install
 
