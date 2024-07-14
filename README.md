@@ -1,4 +1,4 @@
-## İnstalk
+## İnstall
 
 npm install
 
